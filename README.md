@@ -87,4 +87,4 @@ Processed images will be saved automatically to `outputs/` under the appropriate
 ---
 
 ## 📸 Example Preview (Optional)
-> _You can add sample screenshots of before/after outputs here._
+
